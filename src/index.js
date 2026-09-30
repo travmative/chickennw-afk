@@ -1,5 +1,6 @@
-// Mineflayer tarafından yüklenen eski bağımlılıkların Node.js deprecation uyarılarını konsolda göstermesin.
-// Bu, normal hata/uyarı mesajlarını susturmaz; yalnızca DeprecationWarning çıktısını etkiler.
+// BU KOD TRAVMA TARAFINDAN HAZIRLANMIŞTIR
+// HERHANGİ BİR SORUNDA DC = @FİNDHOST
+// AÇIKLAMA METİNLERİ MEVCUTTUR
 process.noDeprecation = true;
 
 const readline = require('readline');
